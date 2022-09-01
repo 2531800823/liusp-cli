@@ -1,0 +1,17 @@
+{
+  "name": "liusp-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "bin": {
+    "liusp-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clear": "rimraf node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
