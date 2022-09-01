@@ -1,7 +1,7 @@
 {
   "name": "liusp-cli",
   "version": "1.0.1",
-  "description": "",
+  "description": "脚手架",
   "main": "./index.js",
   "bin": {
     "liusp-cli": "./bin/index.js"
@@ -13,5 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "lerna": "^5.5.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
