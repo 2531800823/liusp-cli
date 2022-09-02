@@ -3,6 +3,7 @@
   "version": "0.0.4",
   "description": "liusp-cli core",
   "author": "2531800823 <2531800823@qq.com>",
+  "private": "true",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
@@ -19,5 +20,5 @@
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },
-  "gitHead": "174b86ea7738facb82ea499f1de57465ef8d7c1d"
+  "gitHead": "8fcb7cde294bfcdaa12e697f18c83640effaa0cf"
 }
