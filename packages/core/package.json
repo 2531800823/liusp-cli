@@ -1,6 +1,6 @@
 {
   "name": "@liusp-cli/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "liusp-cli core",
   "author": "2531800823 <2531800823@qq.com>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "@liusp-cli/utils": "^1.0.0"
+    "@liusp-cli/utils": "^0.0.1"
   },
   "files": [
     "lib"
