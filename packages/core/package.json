@@ -1,0 +1,22 @@
+{
+  "name": "@liusp-cli/core",
+  "version": "1.0.0",
+  "description": "liusp-cli core",
+  "author": "2531800823 <2531800823@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "dependencies": {
+    "@liusp-cli/utils": "^1.0.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  }
+}

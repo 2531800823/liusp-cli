@@ -9,8 +9,11 @@ lerna-debug.log*
 .cache
 .temp
 coverage
+package-lock.json
 
 node_modules
+packages/**/node_modules
+packages/**/package-lock.json
 .DS_Store
 dist
 dist-ssr
