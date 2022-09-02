@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "脚手架",
   "main": "./index.js",
+  "private": "true",
   "bin": {
     "liusp-cli": "./bin/index.js"
   },
